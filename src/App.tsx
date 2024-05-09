@@ -30,7 +30,7 @@ function App() {
       {/* Provide the QueryClient instance to the QueryClientProvider */}
       {/* from tanstack query */}
       <QueryClientProvider client={queryClient}>
-        <div className="relative z-10 w-[50%] flex gap-2 p-2 m-2">
+        <div className="relative z-10 md:w-[50%] w-full flex gap-2 p-2 m-2">
           {/* Render the Input component */}
           <Input
             type="text"
