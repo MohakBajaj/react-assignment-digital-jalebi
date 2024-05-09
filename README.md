@@ -54,9 +54,9 @@ OR
 
 3. **Build the Application**
 
-```bash
-pnpm preview
-```
+   ```bash
+   pnpm preview
+   ```
 
 4. **Open your browser and visit [http://localhost:4173](http://localhost:4173) to view the application.**
 
