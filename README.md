@@ -45,10 +45,20 @@ Visit this [URL](https://react-assignment-digital-jalebi.vercel.app/) to view a 
 3. **Start the development server:**
 
    ```bash
-   pnpm start
+   pnpm dev
    ```
 
 4. **Open your browser and visit [http://localhost:5173](http://localhost:5173) to view the application.**
+
+OR
+
+3. **Build the Application**
+
+```bash
+pnpm preview
+```
+
+4. **Open your browser and visit [http://localhost:4173](http://localhost:4173) to view the application.**
 
 ## Usage
 
